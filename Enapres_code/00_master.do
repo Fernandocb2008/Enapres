@@ -43,9 +43,7 @@ display as error in smcl "Se esta trabajando en el usuario de `c(username)'"
 	global intdata					"${outputs}\intermediate\"
 	global enapres					"${intdata}\Enapres\"
 	global codes_1					"${codes}\Enapres\"
-	global results					"D:\USMP\Ministerios\MINCUL\2025\OS-003303\2do_Entregable\"
-	global figuras					"${results}\Figuras\"
-		
+
 *** 0.3 Setting up execution
 	
 	global extraer_data		0 
