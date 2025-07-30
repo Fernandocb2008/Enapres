@@ -9,8 +9,7 @@ La encuesta tiene como propósito fundamental generar información estadística 
 A partir de este capítulo, se obtienen los principales indicadores de la Enapres que ilustran la adquisición de libros impresos y digitales a nivel nacional por parte de la población de 14 a más años, así como las diferencias en el consumo según las variables de área de residencia (urbano y rural), región natural, edad, nivel educativo, sexo, lengua materna, autoidentificación étnica y estrato socioeconómico. Asimismo, se presenta la modalidad y frecuencia de adquisición de libros impresos, así como las principales razones por las cuales la población no adquiere estos bienes culturales.
 
 
-###Images
+#### *Figura 1: Perú: porcentaje de la población de 14 y más años que obtuvo o adquirió libros impresos, 2016-2024*
 
-Image:
 
-![](https://github.com/Fernandocb2008/Enapres/blob/main/Figura_1.pdf)
+![](https://github.com/Fernandocb2008/Enapres/blob/main/Figura1.png)
